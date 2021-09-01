@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/PuzzlerDev/puzzlerdev.github.io",
+  "homepage": "",
   "name": "puzzlerdev-page",
-  "description": "Add the links in the object inside the file `/src/data.js`.",
+  "description": "A linktree clone made with React",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
@@ -9,15 +9,6 @@
     "build": "webpack --mode production",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PuzzlerDev/puzzlerdev.github.io.git"
-  },
-  "author": "PuzzlerDev <puzzlerdevoficial@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/PuzzlerDev/puzzlerdev.github.io/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",

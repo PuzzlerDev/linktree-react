@@ -1,48 +1,22 @@
 {
   "header": {
     "image": {
-      "url": "https://avatars.githubusercontent.com/u/79990543",
-      "alt": "PuzzlerDev logo"
+      "url": "https://avatars.githubusercontent.com/u/58638286",
+      "alt": "Ádonys' pic"
     },
-    "fullname": "Puzzler Dev",
-    "title": "Open Source Development Community."
+    "fullname": "Adonys Santos",
+    "title": "Frontend Developer"
   },
   "links": [
     {
-      "title": "GitHub",
-      "url": "https://github.com/puzzlerdev",
+      "title": "Link 1",
+      "url": "https://adonyssantos.me/",
       "openInNewTab": true
     },
     {
-      "title": "Discord",
-      "url": "https://discord.gg/fyGx7BZ",
-      "openInNewTab": true
-    },
-    {
-      "title": "Telegram",
-      "url": "https://t.me/puzzlerdev",
-      "openInNewTab": true
-    },
-
-    {
-      "title": "TikTok",
-      "url": "https://tiktok.com/@puzzlerdev",
-      "openInNewTab": true
-    },
-    {
-      "title": "Instagram",
-      "url": "https://www.instagram.com/puzzlerdev",
-      "openInNewTab": true
-    },
-    {
-      "title": "YouTube",
-      "url": "https://www.youtube.com/channel/UCMsGIPLBFLGC2kuh-8QIA2Q",
-      "openInNewTab": true
-    },
-    {
-      "title": "Twitter",
-      "url": "https://twitter.com/puzzlerdev",
-      "openInNewTab": true
+      "title": "Link 2",
+      "url": "https://adonyssantos.me/puzzlerdev",
+      "openInNewTab": false
     }
   ]
 }
